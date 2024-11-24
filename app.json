@@ -14,8 +14,8 @@
     "OWNERS": {
       "description": "Put your Number as Owner",
       "required": true,
-      "value": "923092668xxx;❣️DASTAGEER"
-    },
+      "value": "923168598809; PROFESSORXHASSAN"
+    },l
     "MODE": {
       "description": "mode public or private",
       "required": true,
@@ -24,7 +24,7 @@
     "PREFIX": {
       "description": "Put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": "."
     },
     "antidelete": {
       "description": "BOT will forward deleted messages if you make it true",
@@ -54,17 +54,17 @@
     "STATUS_MSG": {
       "description": "Status reply message",
       "required": false,
-      "value": "Your Status has been seen by Prince bot"
+      "value": "Your Status has been seen by PROFESSORXHASSAN"
     },
     "BOT_NAME": {
       "description": "Put your BOT a name",
       "required": true,
-      "value": "ᏢᎡᏆΝХᏟᎬ-ᎷᎠ-ᏔᏴ"
+      "value": "PROFESSORXHASSAN"
     },
     "PACK_NAME": {
       "description": "Put your stickers pack name",
       "required": false,
-      "value": "Princebot🎗️❣️"
+      "value": "PROFESSORXHASSAN 🎗️❣️"
     },
     "DATABASE_URL": {
       "description": "Put your MongoDB here",
@@ -74,7 +74,7 @@
     "DL_MSG": {
       "description": "Video downloader caption",
       "required": true,
-      "value": "📥-------- *⛲ᴘʀɪɴᴄᴇ-ᴍᴅ⛲* --------📥"
+      "value": "📥-------- *⛲ PROFESSORXHASSAN ⛲* --------📥"
     },
     "STATUSVIEW": {
       "description": "Make it true if you want the bot to auto view status",
@@ -84,7 +84,7 @@
     "Status_Saver": {
       "description": "Make it true if you want the bot to auto save your contacts status",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "ANTI_CALL": {
       "description": "Make it true if you want bot to Block unknown callers",
@@ -99,7 +99,7 @@
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
       "required": true,
-      "value": ""
+      "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiOEloNHlKZTZ6Z01YWFdqTVZYMWdTcWxGKzhVK0tOeUJwRW1IMUt0WEpWWT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiS1diTkNIUmQwQlh1b0tyWkpzK2U2THBPN1Fja2VIR0l1cEJjWDFxak5DMD0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJXRldHajh0N1l3R2R2SmtPQ0YzSDF4eGZCMmJLUzZUTVdTMEZ6cTNlbWtBPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJLZVZRbk50bURvQTZUTVNXeFk0ZVNmVmpES1QvSHB3SlJaNXlOUkJxUVU4PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjJPUXljQVJnWHdzcW9TSFV3ZEFBTUo0WXdXYVRLdW85ODRoKzZMMXhCa2M9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjZ1c0N5S3NSMkJpbTlFYWdmNGRNQmRVSFNCcm9VVUFyRU1lMDhjZkFsVDA9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTUwwSm1rTjdnY3A1Z1lFbW5EeWllQjgwV3lsMTBidjBkWmtROW00TWRIND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoib2JRNFFDL0VtWGtFby9tR1FOU2pqdkZQbDFRRWxZSzdBVVZaNW5zOFZ5QT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InBRNFVMNmFDQWc2NGtMdkFvcis5eUs5MVZSaklOSi9KSGZldVdOK3Zmd05vSDUyKzlKSFRUSmIxbGVnWS9IYy9tMXJleGd0NVFvdFVQbHJFcVpZZkNRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTI1LCJhZHZTZWNyZXRLZXkiOiJ0QmluUnVrRCt0STBJMlpMTklkVmU1dHlxQk1HWHhTRFFEbTZ5NHZjbkYwPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwicmVnaXN0ZXJlZCI6dHJ1ZSwicGFpcmluZ0NvZGUiOiJFU1c2N1lFTCIsIm1lIjp7ImlkIjoiOTIzMTY4NTk4ODA5Ojg4QHMud2hhdHNhcHAubmV0IiwibmFtZSI6IvCdkI/wnZCR8J2QjvCdkIXwnZCE8J2QkvCdkJLwnZCO8J2QkfCdkJfwnZCH8J2QgPCdkJLwnZCS8J2QgPCdkI0iLCJsaWQiOiIxNDExMTU5OTkxNzQ4Mjg6ODhAbGlkIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNPbkErWjRDRU1XdWk3b0dHQUVnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJ5cVJiOTFmcmFlRlRGQkpkc3lFcTA5VXNqb1FLeUFlZnNKR0FQMUJjZ2hnPSIsImFjY291bnRTaWduYXR1cmUiOiJaMDhBcVRld0JNYXhtQVhtc0FLVlFXOGlJTDVrbm1ldzZWRU04QVRBdzFqekp6UXQ2ZUtzMVV3WE9QOTBwK0NDZXRlNFZ6aEIzM1FEbWZUTjdrdGJEQT09IiwiZGV2aWNlU2lnbmF0dXJlIjoiSlBZMFB2V1dLZzV2MiswbCt5ekdXcGdoUDB2MTVPR0djaVl3NDQwazU4ejk3MkFlN1IzWmpiQnpleWJyNEo0RXVtWGZlMHFXUjJCK2NGYmFlWmJ5QkE9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiI5MjMxNjg1OTg4MDk6ODhAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCY3FrVy9kWDYybmhVeFFTWGJNaEt0UFZMSTZFQ3NnSG43Q1JnRDlRWElJWSJ9fV0sInBsYXRmb3JtIjoic21iYSIsInJvdXRpbmdJbmZvIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ0FnSUVnPT0ifSwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzMyNDMzNzQ2LCJsYXN0UHJvcEhhc2giOiIxUVltbyJ9"
     }
   },
   "buildpacks": [
